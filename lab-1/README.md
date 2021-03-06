@@ -110,8 +110,12 @@
     
     - Які поля були у кадра Ethernet та кадра HDLC? Чому у кадра HDLC немає поля адреси?
     
-    **Відповідь: Кадр Ethernet містить поля: PREAMBLE, Start of frame delimiter (SFD), Destination Address, Source Address, Type, Data, Frame checksum (FCS).**
+    **Відповідь:**
+    
+    **Кадр Ethernet містить поля: PREAMBLE, Start of frame delimiter (SFD), Destination Address, Source Address, Type, Data, Frame checksum (FCS).**
+    
     **Кадр Ethernet містить поля: Flag (FLG), Address (ADR), CONTROL, DATA, Frame checksum (FCS)**
+    
     **Структура фрейму Cisco HDLC (cHDLC) відрізняється від стандартного протоколу ISO HDLC. Поле адреса використовується для вказання типу пакету, що міститься в кадрі cHDLC; 0x0F для Unicast та 0x8F для Broadcast пакетів**
     
     - Що таке преамбула (Preamble) та прапорець (FLG). Якими вони є для технології Ethernet та HDLC?
