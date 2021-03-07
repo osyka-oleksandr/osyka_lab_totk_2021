@@ -56,7 +56,6 @@
         Switch> enable
         Switch# show mac-address-table
         ```
-        ![alt text](https://github.com/osyka-oleksandr/osyka_lab_totk_2021/blob/main/lab-1/Screenshot%20from%202021-03-08%2000-14-12.png)
 1. Яким пристроям належать МАС адреси що містяться в таблиці?
 
     **Відповідь: МАС адреси належать пристроям, на які були відправлені кадри**
@@ -104,6 +103,7 @@
         Router> enable
         Router# show ip route
         ```
+        ![alt text](https://github.com/osyka-oleksandr/osyka_lab_totk_2021/blob/main/lab-1/Screenshot%20from%202021-03-08%2000-14-12.png)
 1. Маршрути до яких мереж присутні в таблиці маршрутизації? Вказати через які порти маршрутизатора доступна кожна з мереж.
     - Запустити ping між комп’ютерами LAN_1 та LAN_3. Як змінюється МАС адреса на Router_LAN_1?
     
