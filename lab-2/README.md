@@ -40,12 +40,28 @@
     Визначте для кожного з графів:
     1. Записати їх матриці суміжності та побудувати графічне представлення.
     
-    ![матриця суміжності](https://github.com/osyka-oleksandr/osyka_lab_totk_2021/blob/main/lab-2/Screenshot%20from%202021-04-17%2012-48-04.png)
+    **Граф G**
+
+    ![матриця суміжності G](https://github.com/osyka-oleksandr/osyka_lab_totk_2021/blob/main/lab-2/Screenshot%20from%202021-04-17%2012-48-04.png)
+
+    ![граф G](https://github.com/osyka-oleksandr/osyka_lab_totk_2021/blob/main/lab-2/Screenshot%20from%202021-04-17%2012-45-02.png)
+
+    **Граф M**
+
+    ![граф M](https://github.com/osyka-oleksandr/osyka_lab_totk_2021/blob/main/lab-2/Screenshot%20from%202021-04-17%2013-23-56.png)
+
+    ![матриця суміжності M](https://github.com/osyka-oleksandr/osyka_lab_totk_2021/blob/main/lab-2/Screenshot%20from%202021-04-17%2013-23-42.png)
+
     
-    ![граф](https://github.com/osyka-oleksandr/osyka_lab_totk_2021/blob/main/lab-2/Screenshot from 2021-04-17 12-45-02.png)
     
     2. Графи орієнтовані чи неорієнтовані? 
+
+    **Відповідь: Граф G є орієнтованим, граф М - неорієнтованим.**
+
     3. Яка кількість вершин `V` та ребер `E`?
+
+    **Відповідь: Граф G: V = , E = . Граф М: V = , E = .**
+
     4. Яка з вершин має найбільшу ступінь? Скільки?
     5. Визначте ексцентриситети вершин для графа `G` та `M`.
     6. Який радіус кожного з графів?
