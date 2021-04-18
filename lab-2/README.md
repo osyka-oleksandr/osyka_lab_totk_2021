@@ -41,7 +41,7 @@
 
 ![alt](https://github.com/osyka-oleksandr/osyka_lab_totk_2021/blob/main/lab-2/Screenshot%20from%202021-04-18%2023-42-47.png)
 
-1[alt](https://github.com/osyka-oleksandr/osyka_lab_totk_2021/blob/main/lab-2/Screenshot%20from%202021-04-18%2023-42-25.png)
+![alt](https://github.com/osyka-oleksandr/osyka_lab_totk_2021/blob/main/lab-2/Screenshot%20from%202021-04-18%2023-42-25.png)
 
 	1. Як з матриці відповідностей можна визначити ступінь кожної вершини?
 
